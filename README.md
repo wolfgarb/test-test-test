@@ -11,11 +11,11 @@ asdfasdfasdf
 
 ## Table of Contents
     
-[Installation](#installation)
-[Usage](#usage)
-[Contributing](#contributing)
-[Tests](#tests)
-[Questions](#questions)
+[Installation](#installation)<br>
+[Usage](#usage)<br>
+[Contributing](#contributing)<br>
+[Tests](#tests)<br>
+[Questions](#questions)<br>
 
 ----
 
