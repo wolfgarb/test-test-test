@@ -1,26 +1,26 @@
 
-# readme generator
+# README generator
   
 ## Description
-adfgadfgsdfgsdf
+asdfasdfasdf
 
 ## License
-<a href='https://opensource.org/licenses/${data.license}'>
-<img src='https://img.shields.io/badge/License-${data.license}-blue.svg' />
+<a href='https://opensource.org/licenses/MIT'>
+<img src='https://img.shields.io/badge/License-MIT-blue.svg' />
 </a>
 
 ## Table of Contents
     
-[Installation](#installation)<br>
-[Usage](#usage)<br>
-[Contributing](#contributing)<br>
-[Tests](#tests)<br>
-[Questions](#questions)<br>
+[Installation](#installation)
+[Usage](#usage)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 ----
 
 ## Installation
-fgfffffffffffff
+asdfasdfasdfs
   
 ## Usage
 1234
@@ -36,4 +36,4 @@ Feedback and questions are always welcome!
 
 [Github](https://github.com/wolfgarb)
 
-[Email](mailto:asdfasdfasdf)
+[Email](mailto:sraewolfskill@gmail.com)
