@@ -5,7 +5,9 @@
 adfgadfgsdfgsdf
 
 ## License
-<img src='https://img.shields.io/badge/License-MIT-blue.svg' />(https://opensource.org/licenses/MIT)
+<a href='https://opensource.org/licenses/${data.license}'>
+<img src='https://img.shields.io/badge/License-${data.license}-blue.svg' />
+</a>
 
 ## Table of Contents
     
