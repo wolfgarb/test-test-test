@@ -5,7 +5,7 @@
 adfgadfgsdfgsdf
 
 ## License
-[![License: MIT]<img src='https://img.shields.io/badge/License-MIT-blue.svg' />](https://opensource.org/licenses/MIT)
+<img src='https://img.shields.io/badge/License-MIT-blue.svg' />(https://opensource.org/licenses/MIT)
 
 ## Table of Contents
     
